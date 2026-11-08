@@ -1,0 +1,9 @@
+{
+  "name": "新馬換算器",
+  "short_name": "新馬換算",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f5f7",
+  "theme_color": "#f5f5f7",
+  "lang": "zh-TW"
+}
